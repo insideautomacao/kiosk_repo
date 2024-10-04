@@ -1,0 +1,11 @@
+src export-ignore
+node_modules
+dist/release
+data
+aold
+logs
+*.sqlite
+*.zip
+src/assets/js/*
+dist/!index.html
+package-lock.json
